@@ -10,6 +10,6 @@ draft: false
 
 **专业**：材料科学与工程
 
-![个人照片](/images/profile.jpg)
+![个人照片](../images/profile.jpg)
 
 我是一名本科生，正在学习 Linux 系统管理、Shell 脚本与 Web 部署。这个博客用于记录《Linux基础及应用》课程中的实验过程、命令总结和遇到的问题，也作为课程大作业的实践成果。

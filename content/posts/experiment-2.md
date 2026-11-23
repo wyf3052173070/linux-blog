@@ -28,7 +28,7 @@ ls -li
 
 `ls -li` 中硬链接与源文件的 inode 相同、链接计数为 2；软链接是独立 inode，类型显示为 `symbolic link`。这说明硬链接共享数据块，软链接保存的是目标路径。
 
-![文件与链接操作](/images/exp2.png)
+![文件与链接操作](../../images/exp2.png)
 
 ## Vim 编辑
 

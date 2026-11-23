@@ -30,7 +30,7 @@ ping -c 4 www.baidu.com
 systemctl status ssh --no-pager
 ```
 
-![node1 双网卡与主机名](/images/exp1.png)
+![node1 双网卡与主机名](../../images/exp1.png)
 
 为了在两台虚拟机之间通信，给 node1 增加 Host-only 网卡，地址设为 192.168.56.101/24；然后用完整克隆生成 node2，并重新生成 MAC 地址，避免克隆后 MAC 冲突。启动 node2 后修改主机名与 Host-only 地址：
 

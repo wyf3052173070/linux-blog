@@ -49,7 +49,7 @@ chmod +x one2n
 # 错误: n 必须是大于 0 的整数
 ```
 
-![one2n 运行结果](/images/one2n.png)
+![one2n 运行结果](../../images/one2n.png)
 
 ## 加入 PATH
 
