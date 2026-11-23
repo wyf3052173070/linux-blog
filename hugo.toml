@@ -1,4 +1,4 @@
-baseURL = "https://wangyifan.github.io/linux-blog/"
+baseURL = "https://wyf3052173070.github.io/linux-blog/"
 relativeURLs = true
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = false
@@ -31,7 +31,7 @@ buildDrafts = false
 
 [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/wangyifan"
+  url = "https://github.com/wyf3052173070"
 
 [[menu.main]]
   identifier = "home"

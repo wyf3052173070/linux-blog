@@ -20,7 +20,7 @@ hugo --minify
 
 ## 部署
 
-推送到 `main` 分支后，GitHub Actions 自动构建并发布到 `gh-pages` 分支；在仓库 Settings → Pages 中选择 `gh-pages` 分支的 `/` 目录。
+推送到 `main` 分支后，GitHub Actions 自动构建并部署到 GitHub Pages（使用官方 Pages Actions，首次运行会尝试自动启用 Pages）。
 
-- 源码仓库：https://github.com/wangyifan/linux-blog
-- 公网地址：https://wangyifan.github.io/linux-blog/
+- 源码仓库：https://github.com/wyf3052173070/linux-blog
+- 公网地址：https://wyf3052173070.github.io/linux-blog/
