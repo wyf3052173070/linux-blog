@@ -1,8 +1,8 @@
-baseURL = "https://wyf3052173070.github.io/linux-blog/"
-relativeURLs = true
+﻿baseURL = "https://wyf3052173070.github.io/linux-blog/"
+relativeURLs = false
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = false
-title = "我的个人博客"
+title = "鎴戠殑涓汉鍗氬"
 theme = "PaperMod"
 
 enableRobotsTXT = true
@@ -26,8 +26,8 @@ buildDrafts = false
   fuseOpts = { isCaseSensitive = false, shouldSort = true, location = 0, distance = 1000, threshold = 0.4, minMatchCharLength = 0, keys = ["title", "permalink", "summary", "content"] }
 
 [params.homeInfoParams]
-  Title = "你好，我是王一凡"
-  Content = "材料科学与工程专业本科生，正在学习 Linux 与系统管理，记录课程实验、Shell 脚本和排错过程。"
+  Title = "浣犲ソ锛屾垜鏄帇涓€鍑?
+  Content = "鏉愭枡绉戝涓庡伐绋嬩笓涓氭湰绉戠敓锛屾鍦ㄥ涔?Linux 涓庣郴缁熺鐞嗭紝璁板綍璇剧▼瀹為獙銆丼hell 鑴氭湰鍜屾帓閿欒繃绋嬨€?
 
 [[params.socialIcons]]
   name = "github"
@@ -35,36 +35,37 @@ buildDrafts = false
 
 [[menu.main]]
   identifier = "home"
-  name = "首页"
+  name = "棣栭〉"
   url = "/"
   weight = 10
 
 [[menu.main]]
   identifier = "about"
-  name = "关于"
+  name = "鍏充簬"
   url = "/about/"
   weight = 20
 
 [[menu.main]]
   identifier = "tags"
-  name = "标签"
+  name = "鏍囩"
   url = "/tags/"
   weight = 30
 
 [[menu.main]]
   identifier = "categories"
-  name = "分类"
+  name = "鍒嗙被"
   url = "/categories/"
   weight = 40
 
 [[menu.main]]
   identifier = "archives"
-  name = "归档"
+  name = "褰掓。"
   url = "/archives/"
   weight = 50
 
 [[menu.main]]
   identifier = "search"
-  name = "搜索"
+  name = "鎼滅储"
   url = "/search/"
   weight = 60
+
